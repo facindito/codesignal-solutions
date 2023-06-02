@@ -1,8 +1,7 @@
 # [CodeSignal](https://app.codesignal.com/arcade)
 
----
-
 ## CodeSignal Algorithm
 
-| #   | Title | Solution | Difficulty |
-| --- | ----- | -------- | ---------- |
+| #   | Title | Solution       |
+| --- | ----- | -------------- |
+| 01  | Add   | [JavaScript]() |
