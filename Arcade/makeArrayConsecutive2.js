@@ -12,3 +12,7 @@ function solution(statues) {
 
   return count;
 }
+
+function solution(statues) {
+  return Math.max(...statues) - Math.min(...statues) + 1 - statues.length;
+}
