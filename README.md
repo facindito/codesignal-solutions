@@ -11,3 +11,4 @@
 | 05  | Shape Area                 | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/shapeArea.js)                |
 | 06  | Make Array Consecutive 2   | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/makeArrayConsecutive2.js)    |
 | 07  | Almost Increasing Sequence | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/almostIncreasingSequence.js) |
+| 08  | Matrix Elements Sum        | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/matrixElementsSum.js)        |
