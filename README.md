@@ -9,3 +9,4 @@
 | 03  | Check Palindrome          | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/checkPalindrome.js)         |
 | 04  | Adjacent Elements Product | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/adjacentElementsProduct.js) |
 | 05  | Shape Area                | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/shapeArea.js)               |
+| 06  | Make Array Consecutive 2  | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/makeArrayConsecutive2.js)   |
