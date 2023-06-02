@@ -2,6 +2,7 @@
 
 ## CodeSignal Algorithm
 
-| #   | Title | Solution       |
-| --- | ----- | -------------- |
-| 01  | Add   | [JavaScript]() |
+| #   | Title             | Solution                                                                                              |
+| --- | ----------------- | ----------------------------------------------------------------------------------------------------- |
+| 01  | Add               | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/add.js)             |
+| 02  | Century From Year | [JavaScript](https://github.com/facindito/codesignal-solutions/blob/master/Arcade/centuryFromYear.js) |
